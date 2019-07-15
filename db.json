@@ -1,50 +1,48 @@
 {
- "merchants":{
-    "content": [
-        {
-            "id": 6,
-            "name": "FairPrice Extra",
-            "status": "ACTIVE",
-            "category": [
-                "FOOD_AND_BEVERAGE",
-                "TRANSPORTATION",
-                "ATTRACTION"
-            ],
-            "partnerMerchantId": "UAT_01",
-            "url": "https://www.feirpriceextra.com.sg",
-            "directAcquirer": "DASH",
-            "logoUrl": null,
-            "logoImageData": null,
-            "bannerImageUrl": null,
-            "bannerImageData": null,
-            "country": "Singapore"
-        }
-    ],
-    "pageable": {
-        "sort": {
-            "sorted": true,
-            "unsorted": false,
-            "empty": false
-        },
-        "pageSize": 10,
-        "pageNumber": 0,
-        "offset": 0,
-        "paged": true,
-        "unpaged": false
-    },
-    "totalElements": 1,
-    "totalPages": 1,
-    "last": true,
-    "first": true,
-    "sort": {
-        "sorted": true,
-        "unsorted": false,
-        "empty": false
-    },
-    "number": 0,
-    "numberOfElements": 1,
-    "size": 10,
-    "empty": false
-}
+	"merchants": {
+		"content": [{
+			"id": 6,
+			"name": "FairPrice Extra",
+			"status": "ACTIVE",
+			"category": [
+				"FOOD_AND_BEVERAGE",
+				"TRANSPORTATION",
+				"ATTRACTION"
+			],
+			"partnerMerchantId": "UAT_01",
+			"url": "https://www.feirpriceextra.com.sg",
+			"directAcquirer": "DASH",
+			"logoUrl": null,
+			"logoImageData": null,
+			"bannerImageUrl": null,
+			"bannerImageData": null,
+			"country": "Singapore"
+		}],
+		"pageable": {
+			"sort": {
+				"sorted": true,
+				"unsorted": false,
+				"empty": false
+			},
+			"pageSize": 10,
+			"pageNumber": 0,
+			"offset": 0,
+			"paged": true,
+			"unpaged": false
+		},
+		"totalElements": 1,
+		"totalPages": 1,
+		"last": true,
+		"first": true,
+		"sort": {
+			"sorted": true,
+			"unsorted": false,
+			"empty": false
+		},
+		"number": 0,
+		"numberOfElements": 1,
+		"size": 10,
+		"empty": false
+	}
 
 }
