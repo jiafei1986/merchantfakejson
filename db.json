@@ -43,6 +43,55 @@
 		"numberOfElements": 1,
 		"size": 10,
 		"empty": false
+	},
+	"branches": {
+		"content": [{
+			"id": 7,
+			"name": "BreadTalk Marina Bay Link Mall",
+			"address": {
+				"lineOne": "8A Marina Boulevard",
+				"lineTwo": "#B2-18",
+				"city": "Singapore",
+				"state": "Singapore",
+				"country": "Singapore",
+				"postalCode": "018984"
+			},
+			"location": {
+				"latitude": 1.279895,
+				"longitude": 103.854901
+			},
+			"partnerBranchId": "01",
+			"partnerMerchantId": "UAT_01",
+			"terminalIdentifiers": [
+				"1000",
+				"1001"
+			]
+		}],
+		"pageable": {
+			"sort": {
+				"sorted": true,
+				"unsorted": false,
+				"empty": false
+			},
+			"pageSize": 10,
+			"pageNumber": 0,
+			"offset": 0,
+			"paged": true,
+			"unpaged": false
+		},
+		"totalElements": 1,
+		"totalPages": 1,
+		"last": true,
+		"first": true,
+		"sort": {
+			"sorted": true,
+			"unsorted": false,
+			"empty": false
+		},
+		"number": 0,
+		"numberOfElements": 1,
+		"size": 10,
+		"empty": false
 	}
 
 }
